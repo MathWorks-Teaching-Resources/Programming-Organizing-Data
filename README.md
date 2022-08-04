@@ -1,4 +1,4 @@
-# Programming: Organizing Data [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115900-programming-organizing-data)
+# Programming: Organizing Data [![View Programming: Organizing Data on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115900-programming-organizing-data)
 
 **Curriculum Module**  
 _Created with R2022a. Compatible with R2021b and later releases._ 
@@ -65,6 +65,9 @@ Different data storage structures are optimized for different types of data and 
 - answer questions by analyzing data. 
 - convert data between types and structures.
 
+## Related Courseware Modules ##
+- **Fundamentals of Programming** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming) or [![View Fundamentals-of-Programming on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming)
+- **Programming: Structuring Code** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Programming-Structuring-Code) or [![View Programming: Structuring Code on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115905-programming-structuring-code)
 
 ## Products ##
 MATLAB&reg;, Mapping Toolbox&trade; (`StoringData.mlx`), Symbolic Math Toolbox&trade; (`Strings.mlx`)
