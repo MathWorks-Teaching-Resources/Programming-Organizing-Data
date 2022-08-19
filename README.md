@@ -73,7 +73,7 @@ Different data storage structures are optimized for different types of data and 
 MATLAB&reg;, Mapping Toolbox&trade; (`StoringData.mlx`), Symbolic Math Toolbox&trade; (`Strings.mlx`)
 
 ## License ##
-The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+The license for this module is available in the [License.md](LICENSE.md) file in this GitHub repository.
 
 ## Support ##
 Solutions are available upon instructor request. If you would like to request solutions or have a question, contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>
