@@ -17,8 +17,8 @@ This module assumes familiarity with basic programming concepts (e.g., floating-
 
 ## Details ##
 
-**Strings.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=Strings.mlx
-)
+**Strings.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=Strings.mlx)
+
 You can define, edit, format, and string together textual data for a computer. This script investigates strings, character arrays, and numeric data types and discusses how they interact in MATLAB. Formatting strings, modifying and extracting substrings, and building composite strings that include the results of numerical calculations are all explored. 
 
 <img src="https://user-images.githubusercontent.com/88841524/174150118-adb245c4-c72e-45d3-a004-e2906a7016a3.png" width="500">
@@ -72,7 +72,7 @@ Different data storage structures are optimized for different types of data and 
 - convert data between types and structures.
 
 ## Related Courseware Modules ##
-- **Fundamentals of Programming** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming) or [![View Fundamentals-of-Programming on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fundamentals-of-Programming&project=FundamentalsofProjects.prj)
+- **Fundamentals of Programming** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming) or [![View Fundamentals-of-Programming on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fundamentals-of-Programming&project=FundamentalsofProgramming.prj)
 - **Programming: Structuring Code** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Programming-Structuring-Code) or [![View Programming: Structuring Code on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115905-programming-structuring-code) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Structuring-Code&project=StructuringCode.prj)
 
 ## Products ##
