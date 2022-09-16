@@ -1,4 +1,6 @@
-# Programming: Organizing Data [![View Programming: Organizing Data on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115900-programming-organizing-data)
+# Programming: Organizing Data 
+[![View Programming: Organizing Data on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115900-programming-organizing-data)
+or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj)
 
 **Curriculum Module**  
 _Created with R2022a. Compatible with R2021b and later releases._ 
@@ -15,7 +17,8 @@ This module assumes familiarity with basic programming concepts (e.g., floating-
 
 ## Details ##
 
-**Strings.mlx**
+**Strings.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=Strings.mlx
+)
 You can define, edit, format, and string together textual data for a computer. This script investigates strings, character arrays, and numeric data types and discusses how they interact in MATLAB. Formatting strings, modifying and extracting substrings, and building composite strings that include the results of numerical calculations are all explored. 
 
 <img src="https://user-images.githubusercontent.com/88841524/174150118-adb245c4-c72e-45d3-a004-e2906a7016a3.png" width="500">
@@ -27,7 +30,8 @@ You can define, edit, format, and string together textual data for a computer. T
 - extract the month from a regularly-formatted but randomly generated sentence.
 
 ## ##
-**NumericDataTypes.mlx**
+**NumericDataTypes.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=NumericDataTypes.mlx)
+
 Different numeric data types are optimized for different operations. This script investigates the binary number system and how it leads to floating point, integer, and boolean data types. 
 
 <img src="https://user-images.githubusercontent.com/88841524/174151625-1ff4a0af-b03e-48ec-abcb-e96e626a0656.png" width="500">
@@ -39,7 +43,8 @@ Different numeric data types are optimized for different operations. This script
 - use documentation to discover how to perform mathematical computations in MATLAB.
 
 ## ##
-**Memory.mlx**
+**Memory.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=Memory.mlx)
+
 Understanding a little bit about how programs interact with memory can help you to write efficient programs or to understand why an algorithm might be much faster in some implementations than others. This script investigates high-level memory management and demonstrates how to write more memory-efficient code.
 
 One toy example implementing naive matrix multiplication algorithms:
@@ -50,7 +55,8 @@ One toy example implementing naive matrix multiplication algorithms:
 - apply understanding of memory to recognize efficient computational patterns such as pre-allocation.
 
 ## ##
-**StoringData.mlx**
+**StoringData.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=StoringData.mlx)
+
 Different data storage structures are optimized for different types of data and access. This script facilitates the exploration of arrays, tables, structure arrays, and cell arrays as structures for storing data. Examples include sea surface temperature data and solar power generation data.
 
 <img src="https://user-images.githubusercontent.com/88841524/174635148-825bb0a6-f6f0-4ca1-bfb1-9b1ec522c64b.png" width="500">
@@ -66,8 +72,8 @@ Different data storage structures are optimized for different types of data and 
 - convert data between types and structures.
 
 ## Related Courseware Modules ##
-- **Fundamentals of Programming** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming) or [![View Fundamentals-of-Programming on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming)
-- **Programming: Structuring Code** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Programming-Structuring-Code) or [![View Programming: Structuring Code on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115905-programming-structuring-code)
+- **Fundamentals of Programming** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Fundamentals-of-Programming) or [![View Fundamentals-of-Programming on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fundamentals-of-Programming&project=FundamentalsofProjects.prj)
+- **Programming: Structuring Code** on [GitHub](https://github.com/MathWorks-Teaching-Resources/Programming-Structuring-Code) or [![View Programming: Structuring Code on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115905-programming-structuring-code) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Structuring-Code&project=StructuringCode.prj)
 
 ## Products ##
 MATLAB&reg;, Mapping Toolbox&trade; (`StoringData.mlx`), Symbolic Math Toolbox&trade; (`Strings.mlx`)
