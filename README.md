@@ -1,5 +1,4 @@
-
-# <span style="color:rgb(213,80,0)">Programming: Organizing Data        </span>
+# <span style="color:rgb(213,80,0)">Programming: Organizing Data  </span>
 
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115900-programming-organizing-data) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Programming-Organizing-Data&project=OrganizingData.prj&file=README.mlx)
