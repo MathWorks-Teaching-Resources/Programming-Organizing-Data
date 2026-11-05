@@ -1,3 +1,5 @@
-%  Post-run script for Strings.mlx
+%  Post-run script for Strings.m
 % ---- Post-run commands -----
  
+% <matlab:ShareFeedback Share your feedback>
+
